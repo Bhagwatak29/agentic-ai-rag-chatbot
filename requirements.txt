@@ -1,0 +1,12 @@
+pymupdf
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langgraph
+langchain-groq
+sentence-transformers
+chromadb
+fastapi
+uvicorn[standard]
+python-dotenv
